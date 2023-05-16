@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fty57/typescript/issues"
   },
-  "homepage": "https://github.com/fty57/typescript#readme"
+  "homepage": "https://github.com/fty57/typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
