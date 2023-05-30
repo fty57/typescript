@@ -15,7 +15,7 @@ console.log(Cores);
 console.log(Cores[10]);
 console.log(Cores.ROXO); */
 
-function escolhaACor(cor: number): void {
+export function escolhaACor(cor: number): void {
   console.log(Cores[cor]);
 }
 
