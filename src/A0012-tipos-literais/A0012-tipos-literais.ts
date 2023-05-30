@@ -15,7 +15,7 @@ const pessoa = {
   sobrenome: 'Miranda',
 };
 
-function escolhaCor(cor: 'Vermelho' | 'Amarelo' | 'Azul') {
+export function escolhaCor(cor: 'Vermelho' | 'Amarelo' | 'Azul') {
   return cor;
 }
 console.log(escolhaCor('Azul'));
